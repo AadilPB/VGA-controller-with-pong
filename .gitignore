@@ -1,6 +1,10 @@
 _ngo/
 iseconfig/
 xlnx_auto_0_xdb/
+_xmsgs
+ipcore_dir/
+isim/
+xst/
 *.ngc
 *.ngd
 *.ncd
@@ -19,7 +23,7 @@ xlnx_auto_0_xdb/
 write.txt
 *.bld
 *.cpj
-*.iso
+*.lso
 *.ngr
 *.pad
 *.par
@@ -30,3 +34,9 @@ write.txt
 *.twx
 *.wdb
 *.exe
+*.ut
+*.map
+*.ngm
+*.xrpt
+*.csv
+*.html
